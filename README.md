@@ -8,34 +8,15 @@
   
 ## 1. Introduction
 
-Some random text here 
-Some random text here 
-Some random text here 
-Some random text here 
-Some random text here 
-Some random text here 
-Some random text here 
-Some random text here 
-
-Some random text here 
-
-Some random text here 
-Some random text here 
-
-
-Some random text here 
-Some random text here 
-
-Some random text here 
-Some random text here 
-
-
-Some random text here 
-
-
-
 ## 2. How to make hyperlinks
-
+[xxx](https://xxx.xxx)
 
 
 ## 3. Math formula
+
+Inline $\mathbf{x} + \mathbf{y}$,     $\boldsymbol{\alpha} + \boldsymbol{\beta}$
+
+
+
+
+
